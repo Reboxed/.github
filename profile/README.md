@@ -1,4 +1,4 @@
-# ![Rebxd logo](https://github.com/user-attachments/assets/415b98bc-f079-4a31-a9e1-8ea447c964c8)
+# ![Rebxd logo](https://github.com/user-attachments/assets/4cea4515-f552-46bc-be40-39b65f339950)
 
 > This is where the future of the Cloud is built.
 
