@@ -4,4 +4,6 @@
 
 Incredibly unique features nobody can find elsewhere with entirely customized software running our infrastructure in order to bring the best experience to our customers.
 
+German quality.
+
 ### It's time to go [Reboxed](https://rebxd.com).
