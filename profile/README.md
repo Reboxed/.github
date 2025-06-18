@@ -8,3 +8,5 @@ Every single cloud out there that isn't the big three (Google Cloud Platform, Am
 With our near fully custom systems we power features no one could even do before such as [REDACTED], [REDACTED], and [REDACTEED] (don't worry little sneaker, you will find out soon enough) and bring a whole new experience to the table.
 
 ### It's time to go [Reboxed](https://rebxd.com).
+
+(Waitlist website not yet online)
