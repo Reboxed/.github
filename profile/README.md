@@ -11,7 +11,7 @@ There was a quirky paragraph here before that I deemed to no longer fit, but wit
 
 ### But if you do, it's time to go [Reboxed](https://rebxd.com).
 
-> Waitlist website not yet online
+> Waitlist website not yet online. Check out our [Discord](https://discord.rebxd.com/) instead
 
 ---
 
