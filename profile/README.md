@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/c4e6ab32-1782-47b0-a6aa-4c729a67a8e2)
 
+---
+
+The way to deploy and host redefined — with massive innovations and integrations provided by the Rebxd Cloud.
 
 > 🗣️ I don't want this to be a “yet-another-aws-wrapper” project like Netlify or Vercel (which it isn't, I ain't just using AWS lambdas), this is just a project of my own and treated as such and even if it doesn't go big, it still will always be a love project of mine for whom me and my friends are the target audience — this wasn't founded for others, but mostly for myself, and I am just turning it into a product as I've seen many others also look for similar integrated products.<br>
 > \- Me, ig
@@ -8,40 +11,36 @@ There was a quirky paragraph here before that I deemed to no longer fit, but wit
 
 ### But if you do, it's time to go [Reboxed](https://rebxd.com).
 
-(Waitlist website not yet online)
+> Waitlist website not yet online
+
+---
 
 # Why Rebxd?
 
 Rebxd is a fully integrated ecosystem for deployment, developing your side-projects, applications and projects simply while keeping it all in one place — A completely hassle-free experience with everything you need in one unified place that we provide and grow for and with you.
 
 <details>
-  <summary>
+  <summary><strong>🔗 Integrated</strong></summary>
   
-  ### 🔗 Integrated
-  </summary>
-  We (or me, I guess) provide many services for you like Authentication, Serverless (soon Edge deployments too!), Storage Buckets and Reactive Realtime Databases while being tightly integrated with each other and even allowing third-party integrations and connections with ease to not miss out on anything.
+  We provide many services for you like Authentication, Serverless (soon Edge deployments too!), Storage Buckets and Reactive Realtime Databases while being tightly integrated with each other and even allowing third-party integrations and connections with ease to not miss out on anything.
   </details>
 <details>
-  <summary>
+  <summary><strong>✨ Artificial Intelligence ✨</strong></summary>
   
-  ### ✨ Artificial Intelligence ✨
-  </summary>
   No good tech product exists in 2025 without mentioning AI, we're sorry...  
   Blitz Agent, our own vibe code builder, makes use of our tools to ensure a true no-effort project creation that starts from 0 to hero in no time! We're working on even training our own AI model at the time called Blitz-One, let's see how that goes 🤞.  
   (Coming soon — WIP)
 </details>
 <details>
-  <summary>
+  <summary><strong>📢 We push your products</strong></summary>
   
-  ### 📢 We push your products
-  </summary>
   On our homepage we will show off what people make on Rebxd if you wish and support you in hopefully going somewhere as well by creating a whole hub for indie or exciting new products that were created with our help.
 </details>
 
 # Roadmap
 
 <details>
-  <summary>Our current To-Do List</summary>
+  <summary><strong>Our current To-Do List</strong></summary>
   
   - [ ] Panel
     - [x] Overview
