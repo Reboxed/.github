@@ -2,7 +2,7 @@
 
 ---
 
-The way to deploy and host redefined — with massive innovations and integrations provided by the Rebxd Cloud.
+**The way to deploy and host redefined — with massive innovations and integrations provided by the Rebxd Cloud.**
 
 > 🗣️ I don't want this to be a “yet-another-aws-wrapper” project like Netlify or Vercel (which it isn't, I ain't just using AWS lambdas), this is just a project of my own and treated as such and even if it doesn't go big, it still will always be a love project of mine for whom me and my friends are the target audience — this wasn't founded for others, but mostly for myself, and I am just turning it into a product as I've seen many others also look for similar integrated products.<br>
 > \- Me, ig
