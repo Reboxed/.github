@@ -14,66 +14,87 @@ There was a quirky paragraph here before that I deemed to no longer fit, but wit
 
 Rebxd is a fully integrated ecosystem for deployment, developing your side-projects, applications and projects simply while keeping it all in one place — A completely hassle-free experience with everything you need in one unified place that we provide and grow for and with you.
 
-### Integrated
-
-We (or me, I guess) provide many services for you like Authentication, Serverless (soon Edge deployments too!), Storage Buckets and Reactive Realtime Databases while being tightly integrated with each other and even allowing third-party integrations and connections with ease to not miss out on anything.
-
-### Artificial Intelligence
-
-No good tech product exists in 2025 without mentioning AI, we're sorry...  
-Blitz Agent, our own vibe code builder, makes use of our tools to ensure a true no-effort project creation that starts from 0 to hero in no time! We're working on even training our own AI model at the time called Blitz-One, let's see how that goes 🤞.  
-(Coming soon — WIP)
-
-### We push your products
-
-On our homepage we will show off what people make on Rebxd if you wish and support you in hopefully going somewhere as well by creating a whole hub for indie or exciting new products that were created with our help.
+<details>
+  <summary>
+  
+  ### 🔗 Integrated
+  </summary>
+  We (or me, I guess) provide many services for you like Authentication, Serverless (soon Edge deployments too!), Storage Buckets and Reactive Realtime Databases while being tightly integrated with each other and even allowing third-party integrations and connections with ease to not miss out on anything.
+  </details>
+<details>
+  <summary>
+  
+  ### ✨ Artificial Intelligence ✨
+  </summary>
+  No good tech product exists in 2025 without mentioning AI, we're sorry...  
+  Blitz Agent, our own vibe code builder, makes use of our tools to ensure a true no-effort project creation that starts from 0 to hero in no time! We're working on even training our own AI model at the time called Blitz-One, let's see how that goes 🤞.  
+  (Coming soon — WIP)
+</details>
+<details>
+  <summary>
+  
+  ### 📢 We push your products
+  </summary>
+  On our homepage we will show off what people make on Rebxd if you wish and support you in hopefully going somewhere as well by creating a whole hub for indie or exciting new products that were created with our help.
+</details>
 
 # Roadmap
 
-### Currently being in progress
-
-- [ ] Panel
-  - [x] Overview
-  - [x] Announcements
-  - [x] Management
-  - [x] Auth
-  - [ ] Analytics
-  - [ ] Billing
-  - [ ] Tickets
-- [x] Secure Service
-  - [x] Tenants
-  - [x] JWTs
-  - [x] JWKS
-  - [x] Keystore
-- [x] Serverless
-  - [x] GCP Backend
-  - [x] Auto deployments
-  - [x] Auto scaling
-  - [x] Free tier
-  - [x] Archiving/Unarchiving
-  - [ ] Some minor QoL things
-- [ ] Auth Service (Deadline: July)
-  - [x] Registration
-  - [x] Login
-  - [ ] oAuth2 (nearly done)
-  - [ ] Connections/Integrations
-  - [ ] Organizations
-- [ ] Storage Buckets (Deadline: July)
-  - [x] File uploads
-  - [x] File metadata
-  - [x] File management (Delete, Update, Visibility)
-  - [ ] Row-Level-Security
-  - [ ] Distributed Storage
-  - [ ] CDN functionality
-- [ ] Rebxd DB (post-launch)
-- [ ] Homepage
-  - [x] Waitlist
-  - [x] Emailing
-  - [ ] Final UI
-  - [ ] Project listings
-  - [ ] Contacting
-  - [ ] Blog
-  - [ ] System status + Incidents (not needed yet)
+<details>
+  <summary>Our current To-Do List</summary>
+  
+  - [ ] Panel
+    - [x] Overview
+    - [x] Announcements
+    - [x] Management
+    - [x] Auth
+    - [ ] Analytics
+    - [ ] Billing
+    - [ ] Tickets
+  - [x] Secure Service
+    - [x] Tenants
+    - [x] JWTs
+    - [x] JWKS
+    - [x] Keystore
+  - [x] Serverless
+    - [x] GCP Backend
+    - [x] Auto deployments
+    - [x] Auto scaling
+    - [x] Free tier
+    - [x] Archiving/Unarchiving
+    - [ ] Some minor QoL things
+  - [ ] Auth Service (Deadline: July)
+    - [x] Registration
+    - [x] Login
+    - [ ] oAuth2 (nearly done)
+    - [ ] Connections/Integrations
+    - [ ] Organizations
+  - [ ] Storage Buckets (Deadline: July)
+    - [x] File uploads
+    - [x] File metadata
+    - [x] File management (Delete, Update, Visibility)
+    - [ ] Row-Level-Security
+    - [ ] Distributed Storage
+    - [ ] CDN functionality
+  - [ ] Rebxd DB (post-launch)
+  - [ ] Homepage
+    - [x] Waitlist
+    - [x] Emailing
+    - [ ] Final UI
+    - [ ] Project listings
+    - [ ] Contacting
+    - [ ] Blog
+    - [ ] System status + Incidents (not needed yet)
+  <details>
+    <summary>Open3</summary>
+    
+  - Planned to be added + in dev
+    - [ ] Chat pinning
+    - [ ] Chat renaming
+    - [ ] Message editing
+    - More details on https://github.com/Reboxed/Open3/pull/4  
+  </details>
+</details>
 
 ### Current leaks
 
