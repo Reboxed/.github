@@ -15,7 +15,7 @@ There was a quirky paragraph here before that I deemed to no longer fit, but wit
 
 ---
 
-# Why Rebxd?
+### Why Rebxd?
 
 Rebxd is a fully integrated ecosystem for deployment, developing your side-projects, applications and projects simply while keeping it all in one place — A completely hassle-free experience with everything you need in one unified place that we provide and grow for and with you.
 
@@ -37,7 +37,9 @@ Rebxd is a fully integrated ecosystem for deployment, developing your side-proje
   On our homepage we will show off what people make on Rebxd if you wish and support you in hopefully going somewhere as well by creating a whole hub for indie or exciting new products that were created with our help.
 </details>
 
-# Roadmap
+---
+
+### Roadmap
 
 <details>
   <summary><strong>Our current To-Do List</strong></summary>
@@ -95,6 +97,7 @@ Rebxd is a fully integrated ecosystem for deployment, developing your side-proje
   </details>
 </details>
 
+  
 ### Current leaks
 
 #### Homepage, March 2025
