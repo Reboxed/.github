@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/2a5209b0-731a-4dd8-b36d-0a61bcae807d)
 
-# Let your code take over deployment
+# Your entire stack, defined as code.
 
 We provide all the tools, security, scaling and infrastructure you need to launch faster. Plus, it's all deployed and configured with code while staying type-safe.
 
