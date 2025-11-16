@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2a5209b0-731a-4dd8-b36d-0a61bcae807d)
+![image](https://github.com/user-attachments/assets/6f032cd4-93f3-49ce-b575-7102b1d03f02)
 
 # Your entire stack, defined as code.
 
