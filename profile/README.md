@@ -66,5 +66,4 @@ TypeScript gets first-class inference and tooling; other languages work via gene
 
 - **AI / Automation**
   - Blitz Agent: zero-effort project bootstrapper  
-  - Blitz-One: in-house model (WIP)
 
