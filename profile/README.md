@@ -36,12 +36,11 @@ Define your architecture inside your repo with full typing, autocomplete, valida
 **Automatic deployments**  
 Rebxd handles build, linking, and deployment in one step. Push, run `rxd deploy`, and your entire stack updates.
 
-**Self-hostable**  
-Commit your `rebxd/` directory and anyone can bootstrap and self-host your full setup.
+**Commit your deployment stack**  
+Commit your `rebxd/` directory and anyone can bootstrap and deploy your full setup themselves.
 
 **Language-agnostic**  
 TypeScript gets first-class inference and tooling; other languages work via generated clients, with expanded support planned.
-
 
 ---
 
