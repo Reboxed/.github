@@ -2,7 +2,7 @@
 
 # Your entire stack, defined as code
 
-The single most powerful batteries-included cloud platform that scales, deploys, and computes globally while defining it all type-safely in your code. We got all the services and infra you need without dealing with edge runtimes.
+The single most powerful batteries-included cloud platform that scales, deploys, and computes globally while defining it all type-safely in your code. We got all the services and infra you need and evenwithout dealing with edge runtimes.
 
 ![image](https://github.com/user-attachments/assets/4b85f266-b164-48a9-ad70-5f0b2b6dca28)
 
